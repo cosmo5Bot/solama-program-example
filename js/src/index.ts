@@ -10,7 +10,7 @@ async function main() {
 
     const inst = new web3.TransactionInstruction({
         keys: [],
-        programId: new web3.PublicKey("CZUgyTgTymhzaswZV2qLAFfMw856KJCb8WL2bqQQ38RB"),
+        programId: new web3.PublicKey("G4B5ybHmWQ9112whvsL52Hdv8k9bBmjwuHP129KoR75Z"),
         data: Buffer.alloc(0),
     });
 
